@@ -17,7 +17,7 @@ The project integrates hardware and software components to create a reliable and
 
 [//]: # "Replace these placeholder links with your actual project screenshots"
 
-| Real-time Monitoring | Interface View | Interface View |
+| Real-time Monitoring |  View |  View |
 |---------------|---------------------|----------------|
 | ![Interface][screenshot1] | ![Monitoring][screenshot2] | ![Analysis][screenshot3] |
 
