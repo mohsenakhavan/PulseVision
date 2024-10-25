@@ -74,7 +74,7 @@ cd PulseVision
 ### 3. Arduino Configuration
 ```
 1. Open Arduino IDE
-2. Load test.ino
+2. Load Arduino.ino
 3. Select correct board and port
 4. Upload the code
 ```
@@ -193,12 +193,13 @@ cd PulseVision
 ### 3. پیکربندی Arduino
 
 1. باز کردن Arduino IDE
-2. بارگذاری test.ino
+2. بارگذاری Arduino.ino
 3. انتخاب برد و پورت صحیح
 4. آپلود کد
+   
+### 4. اجرای برنامه
 ```
 
-### 4. اجرای برنامه
 python main.py
 ```
 
