@@ -21,9 +21,9 @@ The project integrates hardware and software components to create a reliable and
 |---------------|---------------------|----------------|
 | ![Interface][screenshot1] | ![Monitoring][screenshot2] | ![Analysis][screenshot3] |
 
-[screenshot1]: https://cdn.discordapp.com/attachments/1047503812111372424/1299261848880939072/image.png?ex=671c8f63&is=671b3de3&hm=7e8d8682e9c7347a63449484afd0b9fd6cb01d44794a15199d03086685c74b1a&
-[screenshot2]: https://cdn.discordapp.com/attachments/1047503812111372424/1299262138774327346/20241025_100745.jpg?ex=671c8fa9&is=671b3e29&hm=be0e973f2d51e5af830e8de0e27c441b906bd707d977dead26a82c0ca2b30114&
-[screenshot3]: https://cdn.discordapp.com/attachments/1047503812111372424/1299262139218788362/20241025_100653.jpg?ex=671c8fa9&is=671b3e29&hm=d7a675c106da9b73d402bd4adbe5a031dfa6ed27a1d81814012ea0c775836275&
+[screenshot1]: https://github.com/user-attachments/assets/46904347-998a-46a6-a464-c4a7e80aed2e
+[screenshot2]: https://github.com/user-attachments/assets/c53ab736-fdbb-49e4-8759-c6cbe0c63d16
+[screenshot3]: https://github.com/user-attachments/assets/ba31fd44-224b-4c36-a299-34a442c93e51
 
 ## ✨ Key Features
 
